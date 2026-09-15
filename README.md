@@ -1,17 +1,32 @@
-# aplikasi_pertama_rendi_wija_kusuma
+# Proyek Pemrograman Mobile
 
-A new Flutter project.
+## Deskripsi
 
-## Getting Started
+Aplikasi ini merupakan proyek latihan untuk praktikum pemrograman berbasis mobile.
 
-This project is a starting point for a Flutter application.
+## Pengembang
 
-A few resources to get you started if this is your first Flutter project:
+Nama panggilan / akun GitHub: rendiwkus
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Status
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Proyek pengembangan aplikasi mobile untuk kegiatan praktikum.
+
+## Tujuan Aplikasi
+
+Aplikasi ini dibuat untuk menerapkan konsep dasar pengembangan aplikasi mobile menggunakan Flutter.
+
+## Rencana Fitur
+
+1. Menampilkan halaman utama aplikasi.
+2. Menampilkan informasi atau data yang dibutuhkan pengguna.
+3. Menyediakan interaksi sederhana yang dapat digunakan oleh pengguna.
+
+## Cara Menjalankan
+
+Pastikan sudah berada pada folder utama proyek Flutter yang berisi file `pubspec.yaml`.
+
+Kemudian jalankan:
+
+```bash
+flutter pub get
